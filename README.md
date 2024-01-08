@@ -54,13 +54,13 @@ I am Rajan Patel, a dedicated student currently undertaking my B.Tech studies in
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=harshilsarariya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajanpatel126&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilsarariya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshilsarariya&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanpatel126&theme=tokyonight" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=harshilsarariya&style=flat-square&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=rajanpatel126&style=flat-square&color=blue)

@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rajan! Great to see you here!</b>
 <br>
 
 I am Rajan Patel, a dedicated student currently undertaking my B.Tech studies in Information Technology at [Dharmsinh Desai University](https://www.ddu.ac.in/). With a passion for technology, I actively engage in the fields of Artificial Intelligence and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For further details about my academic and professional journey, please feel free to connect with me through the provided link.

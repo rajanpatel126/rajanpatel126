@@ -63,4 +63,5 @@ I am Rajan Patel, a dedicated student currently undertaking my B—tech studies 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanpatel126&theme=tokyonight" />
 </p>
 
+
 ![Profile views](https://komarev.com/ghpvc/?username=rajanpatel126&style=flat-square&color=blue)

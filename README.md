@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rajan! Great to see you here!</b>
 <br>
 
-I am Rajan Patel, a dedicated student currently undertaking my B.Tech studies in Information Technology at [Dharmsinh Desai University](https://www.ddu.ac.in/). With a passion for technology, I actively engage in the fields of Artificial Intelligence and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For further details about my academic and professional journey, please feel free to connect with me through the provided link.
+I am Rajan Patel, a dedicated student currently undertaking my B—tech studies in Information Technology at [Dharmsinh Desai University](https://www.ddu.ac.in/). With a passion for technology, I actively engage in Artificial Intelligence and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please feel free to reach out to me through the link I've included.
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajan78053@gmail.com)](mailto:harshilprajapati9192@gmail.com)
@@ -55,7 +55,7 @@ I am Rajan Patel, a dedicated student currently undertaking my B.Tech studies in
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=rajanpatel126&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilsarariya&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajanpatel126&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>

@@ -4,7 +4,7 @@
 I am Rajan Patel, a dedicated student currently undertaking my B—tech studies in Information Technology at [Dharmsinh Desai University](https://www.ddu.ac.in/). With a passion for technology, I actively engage in Artificial Intelligence and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please feel free to reach out to me through the link I've included.
 <br>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajan78053@gmail.com)](mailto:harshilprajapati9192@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajan78053@gmail.com)](mailto:rajan78053@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajan-patel126/)](https://www.linkedin.com/in/rajan-patel126/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/RajanPa89683657)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/RajanPatel126)

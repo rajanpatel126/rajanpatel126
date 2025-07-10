@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rajan! Great to see you here!</b>
 <br>
 
-I am Rajan Patel, a dedicated student currently pursuing a Master's in Data Science at [RMIT University]([https://www.rmit.edu.au/]). With a passion for technology, I actively engage in the fields of Artificial Intelligence, Agentic AI, Deep Learning and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please don't hesitate to contact me through the link provided.
+I am Rajan Patel, a dedicated student currently pursuing a Master's in Data Science at [RMIT University](https://www.rmit.edu.au/). With a passion for technology, I actively engage in the fields of Artificial Intelligence, Agentic AI, Deep Learning and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please don't hesitate to contact me through the link provided.
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajan78053@gmail.com)](mailto:rajan78053@gmail.com)

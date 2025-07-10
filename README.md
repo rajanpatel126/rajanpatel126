@@ -1,7 +1,7 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Rajan! Great to see you here!</b>
 <br>
 
-I am Rajan Patel, a dedicated student currently undertaking my B—tech studies in Information Technology at [Dharmsinh Desai University](https://www.ddu.ac.in/). With a passion for technology, I actively engage in Artificial Intelligence and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please feel free to reach out to me through the link I've included.
+I am Rajan Patel, a dedicated student currently pursuing a Master's in Data Science at [RMIT University]([https://www.rmit.edu.au/]). With a passion for technology, I actively engage in the fields of Artificial Intelligence, Agentic AI, Deep Learning and Machine Learning. I am enthusiastic about collaborating on projects and exploring groundbreaking ideas. For more details about my academic and professional journey, please don't hesitate to contact me through the link provided.
 <br>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajan78053@gmail.com)](mailto:rajan78053@gmail.com)
@@ -11,7 +11,7 @@ I am Rajan Patel, a dedicated student currently undertaking my B—tech studies 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/rajanpatel2440)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rajan_v_patel_)](https://www.instagram.com/rajan_v_patel_)
 
-[![Harshil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajanpatel126&theme=react-dark)](https://github.com/rajanpatel126)
+[![Rajan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajanpatel126&theme=react-dark)](https://github.com/rajanpatel126)
 
 ## 👨🏻‍💻 Coding Profiles
 
